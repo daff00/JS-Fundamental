@@ -6,22 +6,23 @@ This repository contains a comprehensive JavaScript tutorial designed for beginn
 
 ## Table of Contents
 
-1. [Variable Creation](#exercise-1-variable-creation)  
-2. [Data Types](#exercise-2-data-types)  
+1. Variable Creation
+2. Data Types
    - Strings  
    - Numbers  
    - Boolean  
    - Undefined & Null  
-3. [Functions](#exercise-4-functions)  
-4. [Arrays](#exercise-5-arrays)  
-5. [Objects](#exercise-6-objects)  
-6. [Properties and Methods](#exercise-7-properties-and-methods)  
+3. Functions
+4. Arrays
+5. Objects
+6. Properties and Methods
    - Strings  
    - Arrays  
    - Math  
    - String-to-Number Conversion  
-7. [Missions](#missions)  
+7. Missions
    - Triangle Area Calculation  
    - Accessing Multi-dimensional Arrays  
+
 
 ---
